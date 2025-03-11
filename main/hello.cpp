@@ -8,5 +8,6 @@ int main(void) {
   cout << "I have successfully built and run this  \n";
   cout<<"Rayansh College of hotel management"<<endl;
   cout<<"<3"<<endl;
+  cout<<"</3"<<endl;
   return 0;
 }
